@@ -5,9 +5,9 @@ import crypto from "crypto"
 
 const ENV = {
   QOBUZ_API_BASE: "https://www.qobuz.com/api.json/0.2/",
-  QOBUZ_APP_ID: "",
-  QOBUZ_SECRET: "",
-  QOBUZ_AUTH_TOKENS: [""],
+  QOBUZ_APP_ID: "798273057",
+  QOBUZ_SECRET: "abb21364945c0583309667d13ca3d93a",
+  QOBUZ_AUTH_TOKENS: ["-6MoVR8hli5CDAhNuEaMmAC1MYyYV9OTpi3uU4Nv39BMYNsGlCAcDQAJsKVyKqDvyc8IOGR2YxM4_4hfHNsy9w"],
   NEXT_PUBLIC_GITHUB: "https://github.com/sheikhlipu123/Qobuz-DL-API",
   NEXT_PUBLIC_DISCORD: "https://discord.gg/EBKcDZwEHJ",
   NEXT_PUBLIC_APPLICATION_NAME: "Qobuz-DL API",
